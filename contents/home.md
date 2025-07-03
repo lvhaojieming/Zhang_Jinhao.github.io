@@ -10,5 +10,5 @@ zhangjinhao315@bupt.edu.cn
 B.E., computer science, Beijing University ot Posts and telecommunications, 2023—2027 (expected)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology.
+Deep Learning, Artificial Intelligence, Large Model Quantization, Model Inference Acceleration
 
