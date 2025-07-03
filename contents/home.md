@@ -2,15 +2,13 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+Undergraduate student at the School ot Electronic Engineering, Beijing University ot Posts and telecommunications. Currently, I am engaged in research on large - model interence aceleration and model quantitication. I am al so a visiting student at the Institute ot Computing technology, Chinese Academy ot Sciences, actively involved in related research on large - model interence.
 #### Email
-sli[at]cumt.edu.cn
+zhangjinhao315@bupt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., computer science, Beijing University ot Posts and telecommunications, 2023—2027 (expected)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence Seismology.
 
