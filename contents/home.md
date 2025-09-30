@@ -12,3 +12,4 @@ B.E. computer science, Beijing University of Posts and telecommunications, 2023â
 #### Research Interests
 Deep Learning, Artificial Intelligence, Large Language Model Quantization, Model Acceleration
 
+http://arxiv.org/abs/2508.09204
