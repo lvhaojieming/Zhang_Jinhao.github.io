@@ -9,7 +9,9 @@ Undergraduate student at the School of Electronic Engineering, [Beijing Universi
 #### Education
 B.E. computer science, Beijing University of Posts and telecommunications, 2023—2027 (expected)
 
+#### Pubications
+http://arxiv.org/abs/2508.09204
+
 #### Research Interests
 Deep Learning, Artificial Intelligence, Large Language Model Quantization, Model Acceleration
 
-http://arxiv.org/abs/2508.09204
